@@ -17,12 +17,14 @@ Open C:\Windows\System32\drivers\etc\hosts as Administrator and add
 ```
 127.0.0.1 bogoverie.pythonanywhere.com
 ```
+[Video](https://www.youtube.com/watch?v=wHhay41ocsc)
 
 ### Run the server
 
 ```
 python main.py
 ```
+or run main.exe
 
 ### Run VGETAAL.exe
 
